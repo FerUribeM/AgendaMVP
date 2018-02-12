@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AgendaMVP</string>
+    <string name="contacts">Contactos</string>
+    <string name="label_add_contact">Agregar nuevo contacto</string>
+    <string name="label_add_name">Ingrese nombre completo</string>
+    <string name="label_save">Guardar</string>
+    <string name="label_add_phone">Ingrese un numero telefonico</string>
+    <string name="label_loading_contacts">Cargando contactos, por favor espere…</string>
+    <string name="label_loading">Cargando</string>
+    <string name="label_name">Nombre:</string>
+    <string name="label_phone">Telefono:</string>
+    <string name="contact_id_contenate">Contacto %s</string>
+    <string name="label_search_contact">Buscar contactos</string>
+    <string name="label_add_contacts">Agregar nuevo contacto</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Eliminar</string>
+    <string name="label_delete_contact_question">¿Desea eliminar el registro?</string>
+</resources>

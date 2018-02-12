@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="contacts"
+            type="com.ferbajoo.agendamvp.database.Contact"/>
+    </data>
+
+   <android.support.v7.widget.CardView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:cardElevation="10dp"
+       app:cardCornerRadius="5dp"
+       android:layout_margin="10dp">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           android:layout_margin="5dp">
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="@{@string/contact_id_contenate(contacts.id_contact)}"
+               android:padding="4dp"
+               android:gravity="center"
+               android:textColor="@android:color/white"
+               android:background="@color/colorAccent"
+               android:layout_marginBottom="5dp"/>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="vertical">
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:weightSum="2">
+
+                   <TextView
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:text="@string/label_name"
+                       android:textStyle="bold"
+                       android:textColor="@color/colorPrimaryDark"
+                       android:layout_weight="1.5"/>
+
+                   <TextView
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorPrimary"
+                       android:textStyle="bold"
+                       android:text="@{contacts.name}"
+                       android:layout_weight="0.5"/>
+
+               </LinearLayout>
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:weightSum="2"
+                   android:layout_marginTop="10dp">
+
+                   <TextView
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:text="@string/label_phone"
+                       android:textStyle="bold"
+                       android:textColor="@color/colorPrimaryDark"
+                       android:layout_weight="1.5"/>
+
+                   <TextView
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorPrimary"
+                       android:textStyle="bold"
+                       android:text="@{contacts.phone}"
+                       android:layout_weight="0.5"/>
+
+               </LinearLayout>
+
+
+           </LinearLayout>
+
+       </LinearLayout>
+
+   </android.support.v7.widget.CardView>
+
+</layout>
