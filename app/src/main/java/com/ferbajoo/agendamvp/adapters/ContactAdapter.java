@@ -108,6 +108,8 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.Contacts
         ContactsViewHolder(View itemView) {
             super(itemView);
             binding = DataBindingUtil.bind(itemView);
+
+
             itemView.setOnClickListener(this);
             itemView.setOnLongClickListener(this);
         }

@@ -74,4 +74,7 @@ public class ContactPresenterImpl implements ContactPresenter, ContactInteractor
         }
     }
 
+    public ContactView getContactView() {
+        return contactView;
+    }
 }

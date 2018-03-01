@@ -106,5 +106,7 @@ public class MainPresenterImpl implements MainPresenter, MainInteractor.OnMainFi
         mainView = null;
     }
 
-
+    public MainView getMainView() {
+        return mainView;
+    }
 }
