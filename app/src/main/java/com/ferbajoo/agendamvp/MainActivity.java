@@ -10,6 +10,7 @@ import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.EditText;
@@ -23,6 +24,11 @@ import com.ferbajoo.agendamvp.presenter.MainPresenter;
 import com.ferbajoo.agendamvp.presenter.MainPresenterImpl;
 import com.ferbajoo.agendamvp.views.MainView;
 
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.StringWriter;
+import java.io.Writer;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements MainView, SearchView.OnQueryTextListener, OnItemClickListener {
@@ -78,9 +84,34 @@ public class MainActivity extends AppCompatActivity implements MainView, SearchV
     public boolean onOptionsItemSelected(MenuItem item) {
         if (item.getItemId() == R.id.add_contact) {
             presenter.showDialogAddContact();
+           /* ListaFotos fotos =  new Gson().fromJson(JSONResourceReader(R.raw.listafotos),ListaFotos.class);
+            Log.e("Mensaje", fotos.getStatus());*/
             return true;
         }
         return false;
+    }
+
+    public String JSONResourceReader(int id) {
+        InputStream resourceReader = getResources().openRawResource(id);
+        Writer writer = new StringWriter();
+        try {
+            BufferedReader reader = new BufferedReader(new InputStreamReader(resourceReader, "UTF-8"));
+            String line = reader.readLine();
+            while (line != null) {
+                writer.write(line);
+                line = reader.readLine();
+            }
+        } catch (Exception e) {
+            Log.e("Exception", "Unhandled exception while using JSONResourceReader", e);
+        } finally {
+            try {
+                resourceReader.close();
+            } catch (Exception e) {
+                Log.e("Exception", "Unhandled exception while using JSONResourceReader", e);
+            }
+        }
+
+        return writer.toString();
     }
 
     @Override

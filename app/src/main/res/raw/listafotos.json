@@ -1,0 +1,1104 @@
+{
+  "status": "200",
+  "nombreFotos": [
+    {
+      "IDFOTO": 1,
+      "NOMBREFOTO": "Medidor CFE Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 2,
+      "NOMBREFOTO": "Medidor Agua Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 3,
+      "NOMBREFOTO": "Fachada Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 4,
+      "NOMBREFOTO": "Interior 1 Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 5,
+      "NOMBREFOTO": "Interior 2 Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 6,
+      "NOMBREFOTO": "Panorámica Cliente.",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 7,
+      "NOMBREFOTO": "Identificación Cliente Anverso",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 8,
+      "NOMBREFOTO": "Identificación Cliente Reverso",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 9,
+      "NOMBREFOTO": "Identificación Enfoque Firma Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 10,
+      "NOMBREFOTO": "Comprobante Domicilio Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 11,
+      "NOMBREFOTO": "Comprobante Domicilio Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 12,
+      "NOMBREFOTO": "Comprobante Arraigo Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 13,
+      "NOMBREFOTO": "Comprobante Arraigo Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 14,
+      "NOMBREFOTO": "Comprobante Arraigo Un Año Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 15,
+      "NOMBREFOTO": "Comprobante Arraigo Un Año Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 16,
+      "NOMBREFOTO": "Comprobante Propiedad Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 17,
+      "NOMBREFOTO": "Comprobante Propiedad Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 18,
+      "NOMBREFOTO": "Comprobante Propiedad Enfoque Sellos Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 19,
+      "NOMBREFOTO": "Comprobante Propiedad Enfoque Hologramas Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 20,
+      "NOMBREFOTO": "Recibo Nomina Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 21,
+      "NOMBREFOTO": "Recibo Nomina Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 22,
+      "NOMBREFOTO": "Recibo Nomina Un Año Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 23,
+      "NOMBREFOTO": "Recibo Nomina Un Año Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 24,
+      "NOMBREFOTO": "Medidor CFE Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 25,
+      "NOMBREFOTO": "Medidor Agua Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 26,
+      "NOMBREFOTO": "Fachada Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 27,
+      "NOMBREFOTO": "Interior 1 Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 28,
+      "NOMBREFOTO": "Interior 2 Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 29,
+      "NOMBREFOTO": "Panorámica Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 30,
+      "NOMBREFOTO": "Identificación Aval Anverso",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 31,
+      "NOMBREFOTO": "Identificación Aval Reverso",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 32,
+      "NOMBREFOTO": "Identificación Enfoque Firma Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 33,
+      "NOMBREFOTO": "Comprobante Domicilio Completo Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 34,
+      "NOMBREFOTO": "Comprobante Domicilio Enfoque Datos Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 35,
+      "NOMBREFOTO": "Comprobante Arraigo Completo Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 36,
+      "NOMBREFOTO": "Comprobante Arraigo Enfoque Datos Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 37,
+      "NOMBREFOTO": "Comprobante Arraigo Un Año Completo Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 38,
+      "NOMBREFOTO": "Comprobante Arraigo Un Año Enfoque Datos Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 39,
+      "NOMBREFOTO": "Comprobante Propiedad Completo Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 40,
+      "NOMBREFOTO": "Comprobante Propiedad Enfoque Datos Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 41,
+      "NOMBREFOTO": "Comprobante Propiedad Enfoque Sellos Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 42,
+      "NOMBREFOTO": "Comprobante Propiedad Enfoque Hologramas Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 43,
+      "NOMBREFOTO": "Recibo Nomina Actual Completo Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 44,
+      "NOMBREFOTO": "Recibo Nomina Actual Enfoque Datos Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 45,
+      "NOMBREFOTO": "Recibo Nomina Un Año Completo Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 46,
+      "NOMBREFOTO": "Recibo Nomina Un Año Enfoque Datos Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 47,
+      "NOMBREFOTO": "Medidor CFE del laboral",
+      "FORMATO": "C",
+      "TIPO": "LABORAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 48,
+      "NOMBREFOTO": "Medidor SIAPA del laboral",
+      "FORMATO": "C",
+      "TIPO": "LABORAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 49,
+      "NOMBREFOTO": "Fachada de la laboral",
+      "FORMATO": "C",
+      "TIPO": "LABORAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 50,
+      "NOMBREFOTO": "Identificación Firma a Ruego Anverso",
+      "FORMATO": "A",
+      "TIPO": "CA",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 51,
+      "NOMBREFOTO": "Identificación Firma a Ruego Reverso",
+      "FORMATO": "A",
+      "TIPO": "CA",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 52,
+      "NOMBREFOTO": "Identificación Enfoque Firma a Ruego",
+      "FORMATO": "A",
+      "TIPO": "CA",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 53,
+      "NOMBREFOTO": "Placa Domicilio Referencia 1 No encontrada",
+      "FORMATO": "A",
+      "TIPO": "CA",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 54,
+      "NOMBREFOTO": "Placa Domicilio Referencia 2 No encontrada",
+      "FORMATO": "A",
+      "TIPO": "CA",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 55,
+      "NOMBREFOTO": "Fotografia 1 del nombre de la calle (placa) del domicilio anterior cuando no se localice el domicilio",
+      "FORMATO": "E",
+      "TIPO": "CTEDOMANT",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 56,
+      "NOMBREFOTO": "Fotografia 2 del nombre de la calle (placa) del domicilio anterior cuando no se localice el domicilio",
+      "FORMATO": "E",
+      "TIPO": "CTEDOMANT",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 57,
+      "NOMBREFOTO": "Placa Domicilio Cliente No localizado",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 58,
+      "NOMBREFOTO": "Placa Domicilio Aval No localizado",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 59,
+      "NOMBREFOTO": "Fotografia 1 del nombre de la calle (placa) del domicilio de la referencia personal cuando no se localice el domicilio",
+      "FORMATO": "B",
+      "TIPO": "PERSONAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 60,
+      "NOMBREFOTO": "Fotografia 2 del nombre de la calle (placa) del domicilio de la referencia personal cuando no se localice el domicilio",
+      "FORMATO": "B",
+      "TIPO": "PERSONAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 61,
+      "NOMBREFOTO": "Fotografia 1 del nombre de la calle (placa) del domicilio de la referencia laboral cuando no se localice el domicilio",
+      "FORMATO": "C",
+      "TIPO": "LABORAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 62,
+      "NOMBREFOTO": "Fotografia 2 del nombre de la calle (placa) del domicilio de la referencia laboral cuando no se localice el domicilio",
+      "FORMATO": "C",
+      "TIPO": "LABORAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 63,
+      "NOMBREFOTO": "Fotografia 1 del nombre de la calle (placa) del domicilio anterior del aval cuando no se localice el domicilio",
+      "FORMATO": "E",
+      "TIPO": "AVALDOMANT",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 64,
+      "NOMBREFOTO": "Fotografia 2 del nombre de la calle (placa) del domicilio anterior del aval cuando no se localice el domicilio",
+      "FORMATO": "E",
+      "TIPO": "AVALDOMANT",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 65,
+      "NOMBREFOTO": "Boletín GDL Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 66,
+      "NOMBREFOTO": "Boletín GDL Cónyuge Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 67,
+      "NOMBREFOTO": "Boletín GDL Complementario",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 68,
+      "NOMBREFOTO": "Invyco Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 69,
+      "NOMBREFOTO": "Invyco Cónyuge Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 70,
+      "NOMBREFOTO": "Invyco Complementario",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 71,
+      "NOMBREFOTO": "BC Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 72,
+      "NOMBREFOTO": "BC Cónyuge Cliente",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 73,
+      "NOMBREFOTO": "Boletín GDL Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 74,
+      "NOMBREFOTO": "Boletín GDL Cónyuge Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 75,
+      "NOMBREFOTO": "Invyco Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 76,
+      "NOMBREFOTO": "Invyco Cónyuge Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 77,
+      "NOMBREFOTO": "BC Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 78,
+      "NOMBREFOTO": "BC Conyuge Aval",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 79,
+      "NOMBREFOTO": "Identificación Cónyuge",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 80,
+      "NOMBREFOTO": "Boleta Buró Crédito Cónyuge",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 81,
+      "NOMBREFOTO": "Pagare Cónyuge",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 82,
+      "NOMBREFOTO": "Medidor CFE Cliente",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 83,
+      "NOMBREFOTO": "Medidor SIAPA Cliente",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 84,
+      "NOMBREFOTO": "Fachada de Cliente",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 85,
+      "NOMBREFOTO": "Interior del Cliente 1",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 86,
+      "NOMBREFOTO": "Interior del Cliente 2",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 87,
+      "NOMBREFOTO": "Panorámica del Cliente.",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 88,
+      "NOMBREFOTO": "Identidicación 1 del cliente anverso",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 89,
+      "NOMBREFOTO": "Identidicación 2 del cliente reverso",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 90,
+      "NOMBREFOTO": "Identificación 3 del cliente enfoque en firmas dijitalizadas",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 91,
+      "NOMBREFOTO": "Comprobante de Domicilio 1 del Cliente completa",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 92,
+      "NOMBREFOTO": "Comprobante de Domicilio 2 del Cliente enfoque a domicilio y nombre",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 93,
+      "NOMBREFOTO": "Comprobante de arraigo 1 del cliente completa",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 94,
+      "NOMBREFOTO": "Comprobante de arraigo 2 del cliente enfoque a domicilio y nombre",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 95,
+      "NOMBREFOTO": "Comprobante de arraigo 3 del cliente completa de un año anterior",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 96,
+      "NOMBREFOTO": "Comprobante de arraigo 4 del cliente enfoque a domicilio y nombre de un año anterior",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 97,
+      "NOMBREFOTO": "Comprobante de propiedad del cliente 1 completo",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 98,
+      "NOMBREFOTO": "Comprobante de propiedad del cliente 2 enfoque a domicilio y nombre",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 99,
+      "NOMBREFOTO": "Comprobante de propiedad del cliente 3 enfoque a sellos",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 100,
+      "NOMBREFOTO": "Comprobante de propiedad del cliente 4 enfoque a hologramas",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 101,
+      "NOMBREFOTO": "Fotografia de nomina del cliente 1 completa y reciente",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 102,
+      "NOMBREFOTO": "Fotografia de nomina del cliente 2 enfoque a nombre y fecha",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 103,
+      "NOMBREFOTO": "Fotografia de nomina del cliente 3 completa con aterioridad de un año",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 104,
+      "NOMBREFOTO": "Fotografia de nomina del cliente 4 enfoque a nombre y fecha con anterioridad de un año",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 105,
+      "NOMBREFOTO": "Fotografia del nombre de la calle (placa) del domicilio del cliente cuando no se localice el domicilio.",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 106,
+      "NOMBREFOTO": "Consulta GDL Cliente",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 107,
+      "NOMBREFOTO": "Consulta GDL  Cónyuge Cliente",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 108,
+      "NOMBREFOTO": "Consulta GDL Complementario",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 109,
+      "NOMBREFOTO": "Consulta Invyco Cliente",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 110,
+      "NOMBREFOTO": "Consulta Invyco Cónyuge",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 111,
+      "NOMBREFOTO": "Consulta Invyco Complementario",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 112,
+      "NOMBREFOTO": "BC Cliente",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 113,
+      "NOMBREFOTO": "BC Cónyuge del Cliente",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 114,
+      "NOMBREFOTO": "Identificacion Oficial Conyuge",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 115,
+      "NOMBREFOTO": "Boleta Buro de Credito Conyuge",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 116,
+      "NOMBREFOTO": "Pagare Conyuge",
+      "FORMATO": "A",
+      "TIPO": "CTEDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 117,
+      "NOMBREFOTO": "Discrepancia1",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 118,
+      "NOMBREFOTO": "Discrepancia2",
+      "FORMATO": "A",
+      "TIPO": "CLIENTE",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 119,
+      "NOMBREFOTO": "Discrepancia1",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 120,
+      "NOMBREFOTO": "Discrepancia2",
+      "FORMATO": "A",
+      "TIPO": "AVAL",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 121,
+      "NOMBREFOTO": "BC Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 122,
+      "NOMBREFOTO": "BC Cónyuge Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 123,
+      "NOMBREFOTO": "Boleta Buró Crédito Cónyuge",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 124,
+      "NOMBREFOTO": "Boletín GDL Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 125,
+      "NOMBREFOTO": "Boletín GDL Complementario",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 126,
+      "NOMBREFOTO": "Boletín GDL Cónyuge Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 127,
+      "NOMBREFOTO": "Comprobante Arraigo Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 128,
+      "NOMBREFOTO": "Comprobante Arraigo Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 129,
+      "NOMBREFOTO": "Comprobante Arraigo Un Año Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 130,
+      "NOMBREFOTO": "Comprobante Arraigo Un Año Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 131,
+      "NOMBREFOTO": "Comprobante Domicilio Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 132,
+      "NOMBREFOTO": "Comprobante Domicilio Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 133,
+      "NOMBREFOTO": "Comprobante Propiedad Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 134,
+      "NOMBREFOTO": "Comprobante Propiedad Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 135,
+      "NOMBREFOTO": "Comprobante Propiedad Enfoque Hologramas Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 136,
+      "NOMBREFOTO": "Comprobante Propiedad Enfoque Sellos Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 137,
+      "NOMBREFOTO": "Discrepancia1",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 138,
+      "NOMBREFOTO": "Discrepancia2",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 139,
+      "NOMBREFOTO": "Fachada Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 140,
+      "NOMBREFOTO": "Identificación Cliente Anverso",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 141,
+      "NOMBREFOTO": "Identificación Cliente Reverso",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 142,
+      "NOMBREFOTO": "Identificación Cónyuge",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 143,
+      "NOMBREFOTO": "Identificación Enfoque Firma Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 144,
+      "NOMBREFOTO": "Interior 1 Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 145,
+      "NOMBREFOTO": "Interior 2 Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 146,
+      "NOMBREFOTO": "Invyco Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 147,
+      "NOMBREFOTO": "Invyco Complementario",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 148,
+      "NOMBREFOTO": "Invyco Cónyuge Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 149,
+      "NOMBREFOTO": "Medidor Agua Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 150,
+      "NOMBREFOTO": "Medidor CFE Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 151,
+      "NOMBREFOTO": "Pagare Cónyuge",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 152,
+      "NOMBREFOTO": "Panorámica Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 153,
+      "NOMBREFOTO": "Placa Domicilio Cliente No localizado",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 154,
+      "NOMBREFOTO": "Recibo Nomina Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 155,
+      "NOMBREFOTO": "Recibo Nomina Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 156,
+      "NOMBREFOTO": "Recibo Nomina Un Año Completo Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    },
+    {
+      "IDFOTO": 157,
+      "NOMBREFOTO": "Recibo Nomina Un Año Enfoque Datos Cliente",
+      "FORMATO": "A",
+      "TIPO": "AVALDOMNVO",
+      "TIPODOC": 0
+    }
+  ]
+}
